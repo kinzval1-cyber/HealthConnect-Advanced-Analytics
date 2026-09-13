@@ -62,6 +62,8 @@ Higher distance bands generally showed higher no-show rates, although some fluct
 Reminder recipients recorded lower or similar no-show rates across several distance groups.
 
 Distance therefore provides an additional risk indicator that can be considered when prioritising attendance-support interventions.
+## Analysis
+![week 6](week6.jpeg)
 
 ## Key Findings
 

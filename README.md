@@ -32,7 +32,8 @@ For example:
 - 2 previous no-shows + reminder: 56.51% no-show rate
 
 This suggests that reminder interventions may be particularly relevant for patients with a history of missed appointments.
-
+## Analysis
+![Previuos No show and reminder status]()
 ### 2. Booking Lead Time × Previous No-Shows
 
 No-show rates increased substantially as appointments were booked further in advance.

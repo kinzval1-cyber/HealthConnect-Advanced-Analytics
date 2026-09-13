@@ -33,7 +33,8 @@ For example:
 
 This suggests that reminder interventions may be particularly relevant for patients with a history of missed appointments.
 ## Analysis
-![Previuos No show and reminder status]()
+![Previous No show and reminder status](Previous%20No%20show%20and%20reminder%20staus.jpeg)
+
 ### 2. Booking Lead Time × Previous No-Shows
 
 No-show rates increased substantially as appointments were booked further in advance.

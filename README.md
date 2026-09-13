@@ -63,7 +63,7 @@ Reminder recipients recorded lower or similar no-show rates across several dista
 
 Distance therefore provides an additional risk indicator that can be considered when prioritising attendance-support interventions.
 ## Analysis
-![week 6](week6.jpeg)
+![week 6](week%20 6.jpeg)
 
 ## Key Findings
 

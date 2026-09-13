@@ -50,6 +50,8 @@ Overall no-show rates across the booking lead-time groups were:
 The analysis also showed higher no-show rates among patients with previous no-shows.
 
 This highlights long booking lead time and previous no-show history as important factors for attendance-support strategies.
+## Analysis
+![Book Lead time and Previous no show](Book%20Lead%20time%20and%20Previous%20no%20show.jpeg)
 
 ### 3. Distance × Previous No-Shows × Reminder Status
 
